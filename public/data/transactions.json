@@ -1,0 +1,114 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "date": "2024-04-01T09:15:30Z",
+      "productId": 2,
+      "type": "out",
+      "quantity": 10,
+      "previousStock": 30,
+      "newStock": 20,
+      "userId": 1,
+      "notes": "Dispensed to customer #1045"
+    },
+    {
+      "id": 2,
+      "date": "2024-04-01T10:20:45Z",
+      "productId": 5,
+      "type": "out",
+      "quantity": 2,
+      "previousStock": 92,
+      "newStock": 90,
+      "userId": 2,
+      "notes": "Dispensed to customer #1046"
+    },
+    {
+      "id": 3,
+      "date": "2024-04-02T08:30:15Z",
+      "productId": 9,
+      "type": "out",
+      "quantity": 5,
+      "previousStock": 10,
+      "newStock": 5,
+      "userId": 1,
+      "notes": "Dispensed to customer #1047"
+    },
+    {
+      "id": 4,
+      "date": "2024-04-02T14:45:00Z",
+      "productId": 1,
+      "type": "in",
+      "quantity": 50,
+      "previousStock": 100,
+      "newStock": 150,
+      "userId": 2,
+      "notes": "Received from Johnson & Johnson, Order #JJ2024-123"
+    },
+    {
+      "id": 5,
+      "date": "2024-04-03T09:10:20Z",
+      "productId": 13,
+      "type": "out",
+      "quantity": 3,
+      "previousStock": 10,
+      "newStock": 7,
+      "userId": 1,
+      "notes": "Dispensed to customer #1048"
+    },
+    {
+      "id": 6,
+      "date": "2024-04-03T11:25:30Z",
+      "productId": 8,
+      "type": "out",
+      "quantity": 2,
+      "previousStock": 10,
+      "newStock": 8,
+      "userId": 2,
+      "notes": "Dispensed to customer #1049"
+    },
+    {
+      "id": 7,
+      "date": "2024-04-04T15:40:10Z",
+      "productId": 3,
+      "type": "out",
+      "quantity": 3,
+      "previousStock": 15,
+      "newStock": 12,
+      "userId": 1,
+      "notes": "Dispensed to customer #1050"
+    },
+    {
+      "id": 8,
+      "date": "2024-04-05T10:05:45Z",
+      "productId": 18,
+      "type": "out",
+      "quantity": 7,
+      "previousStock": 35,
+      "newStock": 28,
+      "userId": 2,
+      "notes": "Dispensed to customer #1051"
+    },
+    {
+      "id": 9,
+      "date": "2024-04-05T16:30:00Z",
+      "productId": 20,
+      "type": "out",
+      "quantity": 1,
+      "previousStock": 10,
+      "newStock": 9,
+      "userId": 1,
+      "notes": "Dispensed to customer #1052"
+    },
+    {
+      "id": 10,
+      "date": "2024-04-06T08:50:15Z",
+      "productId": 7,
+      "type": "in",
+      "quantity": 25,
+      "previousStock": 60,
+      "newStock": 85,
+      "userId": 2,
+      "notes": "Received from AstraZeneca, Order #AZ2024-456"
+    }
+  ]
+}

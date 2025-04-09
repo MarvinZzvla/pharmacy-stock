@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "john.smith",
+      "password": "pharm123",
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "john.smith@pharmacy.com",
+      "role": "pharmacist",
+      "permissions": ["view", "edit", "dispense", "report"],
+      "lastLogin": "2024-04-06T09:30:15Z",
+      "createdAt": "2023-08-15T10:00:00Z",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "username": "sarah.wilson",
+      "password": "stock123",
+      "firstName": "Sarah",
+      "lastName": "Wilson",
+      "email": "sarah.wilson@pharmacy.com",
+      "role": "inventory_manager",
+      "permissions": ["view", "edit", "restock", "report"],
+      "lastLogin": "2024-04-06T08:45:20Z",
+      "createdAt": "2023-09-05T14:30:00Z",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "username": "admin",
+      "password": "admin123",
+      "firstName": "Admin",
+      "lastName": "User",
+      "email": "admin@pharmacy.com",
+      "role": "admin",
+      "permissions": ["manage_inventory", "view_reports", "manage_users"],
+      "lastLogin": "2024-04-07T10:00:00Z",
+      "createdAt": "2023-08-01T09:00:00Z",
+      "isActive": true
+    }
+  ]
+}
