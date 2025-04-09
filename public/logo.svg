@@ -1,0 +1,16 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo circular -->
+  <circle cx="100" cy="100" r="95" fill="#e6f2f1" stroke="#1f9aa2" stroke-width="5"/>
+
+  <!-- Cruz médica -->
+  <rect x="85" y="40" width="30" height="120" fill="#1f9aa2" rx="5"/>
+  <rect x="40" y="85" width="120" height="30" fill="#1f9aa2" rx="5"/>
+
+  <!-- Hoja en la esquina inferior derecha -->
+  <path d="M135 135 C160 120, 160 160, 135 145 C120 140, 120 120, 135 135 Z" fill="#3cb371"/>
+
+  <!-- Texto -->
+  <text x="100" y="180" font-size="20" text-anchor="middle" fill="#1f9aa2" font-family="sans-serif">
+    Farmacia Salud
+  </text>
+</svg>
