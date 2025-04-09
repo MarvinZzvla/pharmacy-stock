@@ -11,6 +11,8 @@ A modern pharmacy inventory management system built with Vite and Vanilla JavaSc
 - **User Authentication**: Role-based access with different permission levels
 - **Responsive UI**: Clean, intuitive interface with notifications system
 
+Web App Deployment
+https://pharmacy-stock-theta.vercel.app/
 ## Project Structure
 
 ```
@@ -50,7 +52,7 @@ A modern pharmacy inventory management system built with Vite and Vanilla JavaSc
 1. Clone the repository:
 
    ```
-   git clone
+   git clone https://github.com/MarvinZzvla/pharmacy-stock.git
    cd pharmacy-stock
    ```
 
